@@ -2,8 +2,6 @@
 
 Fuzzy-find and open any Git project from one or more base directories in Visual Studio Code, sorted by recent usage.
 
-![Preview](assets/preview.png)
-
 ## 🚀 Features
 
 - Recursively scan `$HOME/Project` or other custom paths (supporting multiple).
@@ -29,5 +27,4 @@ Set these via Alfred's ⚙️ "Configure..." interface:
 ![preview](assets/preview.png)
 
 ---
-Created by [@graysurf](https://github.com/graysurf)
 > Visual Studio Code icon © Microsoft, used here for integration clarity.
