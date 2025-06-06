@@ -19,6 +19,7 @@ Set these via Alfred's ⚙️ "Configure..." interface:
 |----------------|-----------------------------------------------------------------------------|
 | `PROJECT_DIRS` | Comma-separated paths to scan. Supports `$HOME`, `~`, etc.                  |
 | `USAGE_FILE`   | Path to the usage log (default: `$HOME/.alfred_project_usage.log`)          |
+| `VSCODE_PATH`  | Full path or command to launch your editor (default: `code`)                |
 
 ## ⬇️ Download
 
