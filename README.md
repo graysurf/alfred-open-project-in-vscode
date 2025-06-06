@@ -22,7 +22,7 @@ Set these via Alfred's ⚙️ "Configure..." interface:
 
 ## ⬇️ Download
 
-**[👉 Click to download .alfredworkflow](https://github.com/user-attachments/files/20615787/open-project-in-vscode.alfredworkflow.zip)**
+**[👉 Click to download .alfredworkflow](https://github.com/graysurf/alfred-open-project-in-vscode/releases/download/v1.1.0/open-project-in-vscode.alfredworkflow)**
 
 ## 📸 Screenshots
 
