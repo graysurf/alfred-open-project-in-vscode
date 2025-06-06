@@ -36,5 +36,7 @@ Set these via Alfred's ⚙️ "Configure..." interface:
 
 ## 🪪 License
 
+[![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
 This project is licensed under the [CC0 1.0 Universal (Public Domain Dedication)](LICENSE).  
 You are free to use, modify, distribute, and integrate it without any restrictions or attribution.
