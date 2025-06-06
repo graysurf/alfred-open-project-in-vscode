@@ -29,5 +29,11 @@ Set these via Alfred's ⚙️ "Configure..." interface:
 ![preview](assets/preview.png)
 
 ---
-Created by [@graysurf](https://github.com/graysurf)
 > Visual Studio Code icon © Microsoft, used here for integration clarity.
+
+---
+
+## 🪪 License
+
+This project is licensed under the [CC0 1.0 Universal (Public Domain Dedication)](LICENSE).  
+You are free to use, modify, distribute, and integrate it without any restrictions or attribution.
