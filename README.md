@@ -23,7 +23,7 @@ Set these via Alfred's ⚙️ "Configure..." interface:
 
 ## ⬇️ Download
 
-**[👉 Click to download .alfredworkflow](https://github.com/graysurf/alfred-open-project-in-vscode/releases/download/v1.1.0/open-project-in-vscode.alfredworkflow)**
+**[👉 Click to download .alfredworkflow](https://github.com/graysurf/alfred-open-project-in-vscode/releases/download/v1.1.1/open-project-in-vscode.alfredworkflow)**
 
 ---
 > Visual Studio Code icon © Microsoft, used here for integration clarity.
